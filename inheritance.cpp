@@ -35,7 +35,7 @@ class Footballer : public Person
 
 int main()
 {
-     MathsTeacher teacher;
+     MathsTeacher teacher;//obj_declaration
      teacher.profession = "Teacher";
      teacher.age = 23;
      teacher.display();
@@ -48,4 +48,4 @@ int main()
      footballer.playFootball();
 
      return 0;
-}
+}//end of programme
