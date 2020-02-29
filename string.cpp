@@ -10,8 +10,8 @@ int main()
 	cin>>u1;
 	cout<<"Enter password\n";
 	cin>>p1;
-	if(strcmp(u,u1)==0 && strcmp(p,p1)==0)
+	if(strcmp(u,u1)==0 && strcmp(p,p1)==0)//if true then this --execute
 		cout<<"Login successful";
 	else
 		cout<<"Wrong username or password";
-}
+}//end of programme
