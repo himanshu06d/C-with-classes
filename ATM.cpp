@@ -32,6 +32,6 @@ int main()
 		default:
 			cout<<"INVALID INPUT!!!!";
 	}
-}
+}//end programme okay
 
 		
