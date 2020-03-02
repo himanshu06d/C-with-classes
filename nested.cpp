@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace std;//declaration
 
 class base
 {
@@ -18,10 +18,10 @@ class base
 			cout<<"The value of eneterd number "<<n<<endl;
 		}
 	};
-};
+};//class defined
 
 
-int main()
+int main()//main aadded
 {
 	
 	cout<<"Nested class in c++";
@@ -30,4 +30,4 @@ int main()
 	obj.display();
 
 return 0;
-}
+}//end of programme
