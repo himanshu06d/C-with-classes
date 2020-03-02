@@ -4,7 +4,7 @@
 #include<stdlib.h>
 #include<string>
 using namespace std;
-int main()
+int main()//main added
 {
 string str;
 cout<<"write the string";
@@ -15,4 +15,4 @@ str.insert(3," area",4);//TO give only three letters from area we have taken 4 b
 cout<<str<<endl;
 cout<<str.capacity()<<" "<<str.length()<<endl;
 return 0;
-}
+}//end of programme
