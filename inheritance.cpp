@@ -33,7 +33,7 @@ class Footballer : public Person
        void playFootball() { cout << "I can play Football." << endl; }
 };
 
-int main()
+int main()//main added
 {
      MathsTeacher teacher;//obj_declaration
      teacher.profession = "Teacher";
