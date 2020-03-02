@@ -15,7 +15,7 @@ class Z
     }
 };
 
-int main()
+int main()//main added
 {
     Z z1;   // Constructor Called
     int a = 1
