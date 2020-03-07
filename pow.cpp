@@ -16,4 +16,4 @@ cin>>x>>y;
 c=pow(x,y);
 cout<<"the ans is ->"<<c;
 return 0;
-}
+}//end of the programme
