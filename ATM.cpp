@@ -29,7 +29,7 @@ int main()
 		case 'B':
 			cout<<"Amount in your account = "<<amt;
 			break;
-		default:
+		default://statement
 			cout<<"INVALID INPUT!!!!";
 	}
 }//end programme okay
