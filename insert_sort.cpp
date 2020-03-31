@@ -5,7 +5,7 @@ using namespace std;
 void insertionSort(int arr[], int n)  
 {  
     int i, key, j;  
-    for (i = 1; i < n; i++) 
+    for (i = 1; i < n; i++) //for loop defined
     {  
         key = arr[i];  
         j = i - 1;  
@@ -32,7 +32,7 @@ void printArray(int arr[], int n)
     cout << endl; 
 }  
  /* Driver code */
-int main()  
+int main()  //main function added
 {  
     int arr[] = { 12, 11, 13, 5, 6 };  
     int n = sizeof(arr) / sizeof(arr[0]);  
